@@ -6,6 +6,6 @@
 - computer science major
 
 ### contact
-discord: Azurilex#0001\
-twitter: @azurilex\
+discord: autumn#0002\
+twitter: @autumncpp\
 email: azurilex@invalid.gg
