@@ -7,5 +7,4 @@
 
 ### contact
 discord: autumn#0002\
-twitter: @autumncpp\
-email: azurilex@invalid.gg
+twitter: @autumncpp
