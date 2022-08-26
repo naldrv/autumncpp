@@ -7,4 +7,4 @@
 
 ### contact
 discord: autumn#0002\
-twitter: @autumncpp
+email: a@uwu.me
